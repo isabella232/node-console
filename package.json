@@ -1,0 +1,20 @@
+{
+  "name": "nodeconsole",
+  "version": "0.0.1",
+  "description": "A REPL extension inspired by the rails console",
+  "main": "./lib/nodeconsole",
+  "bin": {
+    "nodeconsole": "./bin/nodeconsole"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lob/nodeconsole.git"
+  },
+  "keywords": [],
+  "author": "Basil Siddiqui <basil@lob.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lob/nodeconsole/issues"
+  },
+  "homepage": "https://github.com/lob/nodeconsole"
+}
